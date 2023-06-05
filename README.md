@@ -1,1 +1,3 @@
-# A Mini Python Project - Password Generator
+# Password Generator
+
+A mini Python Project
